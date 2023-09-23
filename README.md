@@ -13,9 +13,9 @@ https://shopify.dev/docs/themes/tools/cli/install
   <img width="auto" src="https://cdn.shopify.com/s/files/1/0575/3228/5065/files/1.png">
 
   <img width="auto" src="https://cdn.shopify.com/s/files/1/0575/3228/5065/files/2.png">
-  
 
-    *The command prompt window opens on hitting enter.*
+  
+    The command prompt window opens on hitting enter
 
   <img width="auto" src="https://cdn.shopify.com/s/files/1/0575/3228/5065/files/3.png">
   
@@ -45,7 +45,7 @@ https://shopify.dev/docs/themes/tools/cli/install
   <img width="auto" src="https://cdn.shopify.com/s/files/1/0575/3228/5065/files/6.png">
 
 
-7. Now, log into your GitHub account and create a new private repository for the master branch.
+7. Now, log into your GitHub account and create a new ***private repository*** for the master branch.
 
   <img width="auto" src="https://cdn.shopify.com/s/files/1/0575/3228/5065/files/7.png">
 
